@@ -15,8 +15,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- A passionate Self-taught Front End developer
+- Currently learning Web Development by my self
 - Personal website [link](https://camilo-suarez98-github-io.vercel.app/)
 - I’m currently looking for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1f2toB66E8Neg-LOpEwZ5jpJyhYLsj6eH/view)
 
