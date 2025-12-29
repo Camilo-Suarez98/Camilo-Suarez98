@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Camilo Suárez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Camilo+Suárez,;Full+Stack+Developer,;Love+to+learn+new+stuffs..<3">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Camilo+Suárez,;Full+Stack+Developer,;Focus+on+Front+End,;Love+to+learn+new+stuffs..<3">
 </p>
 
 <br>
@@ -11,7 +11,7 @@
 
 <br>
 
-- A passionate Full Stack developer
+- A passionate Full Stack developer with focus on Front End
 - Currently learning Web Development by my self
 - Personal website [link](https://camilo-suarez-dev.vercel.app/)
 - I’m currently looking for a new job opportunity, this is [my resume]([https://drive.google.com/file/d/1f2toB66E8Neg-LOpEwZ5jpJyhYLsj6eH/view](https://drive.google.com/file/d/176hHcLrMqLZilL4TmRCyqmdIAmedA819/view?usp=drive_link))
