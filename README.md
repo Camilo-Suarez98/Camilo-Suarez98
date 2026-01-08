@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - Full Stack Developer with a strong focus on **Frontend Development**
-- >3 years of hands-on experience building web applications
+- 3 years of hands-on experience building web applications
 - Passionate about clean UI, performance, and modern JavaScript ecosystems
 - Constantly learning and improving my skills
 - 🌐 Personal website: [camilo-suarez-dev.vercel.app](https://camilo-suarez-dev.vercel.app/)
