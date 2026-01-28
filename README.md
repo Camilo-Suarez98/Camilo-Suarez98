@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Frontend-Focused;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=600&height=80&lines=Frontend+Developer;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Full Stack Developer with a strong focus on **Frontend Development**
+- Frontend Developer specialize in building scalable, user-centric web applications that merge precision engineering with modern aesthetics.
 - 3 years of hands-on experience building web applications
 - Passionate about clean UI, performance, and modern JavaScript ecosystems
 - Constantly learning and improving my skills
@@ -27,10 +27,11 @@
 - JavaScript (ES6+), TypeScript
 - React
 - Next.js
-- WordPress (Gutember, Elementor, Divi)
+- WordPress (Gutemberg, Elementor, Divi)
 - Tailwind CSS
-- Zustand, React Hook Form
-- Go High Level
+- Zustand
+- Reduz
+- Go High Level (GHL)
 - Webflow
 
 ### **Backend**
