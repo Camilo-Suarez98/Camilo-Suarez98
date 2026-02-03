@@ -29,27 +29,20 @@
 - Next.js
 - WordPress (Gutemberg, Elementor, Divi)
 - Tailwind CSS
+- Context API
 - Zustand
-- Reduz
+- Redux, Redux Toolkit
 - Go High Level (GHL)
 - Webflow
-
-### **Backend**
-- Node.js
-- REST APIs
-- GraphQL
-- PHP
-
-### **Databases**
-- PostgreSQL
-- MongoDB
 
 ### **Tools & Platforms**
 - Git & GitHub
 - Vercel
 - VS Code
+- Claude
 - Windsurf
 - Antigravity
+- OpenAI
 - Figma (for UI collaboration)
 
 ---
