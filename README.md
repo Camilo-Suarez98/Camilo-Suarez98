@@ -11,8 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- Frontend Developer specialize in building scalable, user-centric web applications that merge precision engineering with modern aesthetics.
-- 3 years of hands-on experience building web applications
+- Frontend Developer specialize in building scalable, user-centric web and iOS applications that merge precision engineering with modern aesthetics.
+- +3 years of hands-on experience building web applications
 - Passionate about clean UI, performance, and modern JavaScript ecosystems
 - Constantly learning and improving my skills
 - 🌐 Personal website: [camilo-suarez-dev.vercel.app](https://camilo-suarez-dev.vercel.app/)
@@ -27,6 +27,7 @@
 - JavaScript (ES6+), TypeScript
 - React
 - Next.js
+- Swift - SwiftUI
 - WordPress (Gutemberg, Elementor, Divi)
 - Tailwind CSS
 - Context API
