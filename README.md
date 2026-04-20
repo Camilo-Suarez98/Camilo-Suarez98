@@ -16,7 +16,6 @@
 - Passionate about clean UI, performance, and modern JavaScript ecosystems
 - Constantly learning and improving my skills
 - 🌐 Personal website: [camilo-suarez-dev.vercel.app](https://camilo-suarez-dev.vercel.app/)
-- 📄 Currently open to new opportunities — [View my resume](https://drive.google.com/file/d/176hHcLrMqLZilL4TmRCyqmdIAmedA819/view)
 
 ---
 
