@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=600&height=80&lines=Frontend+and+iOS+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=600&height=80&lines=Frontend+Developer;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Frontend Developer specialize in building scalable, user-centric web and iOS applications that merge precision engineering with modern aesthetics.
+- Frontend Developer specialize in building scalable, user-centric web that merge precision engineering with modern aesthetics.
 - +3 years of hands-on experience building web applications
 - Passionate about clean UI, performance, and modern JavaScript ecosystems
 - Constantly learning and improving my skills
